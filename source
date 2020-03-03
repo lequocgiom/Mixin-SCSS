@@ -185,3 +185,6 @@ Cách dùng:
   @include gradient(#07c, #06f, vertical);
 }
 Oke, vậy là trên đây mình đã giới thiệu 4 Mixins mà mình thấy dự án nào mình cũng cần dùng rồi. Cảm ơn các bạn đã đọc, nếu có mixins nào hữu ích nữa, các bạn có thể comment cho mình biết với nha 😀
+
+
+Source: https://viblo.asia/p/nhung-mixins-scss-huu-ich-khi-code-front-end-maGK77gxKj2?fbclid=IwAR1nqoerIPKm1jCGm5KB8PuTPDEpfiE-nnkcLiCUtH_lMJ8VdMPJtUj2nwY
